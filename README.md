@@ -2,7 +2,7 @@
 
 An investigation and visualization of the proportion of the US public identifying as "Strong Partisans".
 
-This is the code directory for this Medium post discussing how the percentage of the public identifying as a "strong" partisan (either Democrat or Republican) has increased over the last 40 years. It investigates two potential confounding factors (mode of interview and cohort effects) and finds that neither can explain the overall societal increase.
+This is the code directory for this [Medium](https://prlicari.medium.com/strong-partisans-are-on-the-rise-in-the-us-7db7fa0434ab) post discussing how the percentage of the public identifying as a "strong" partisan (either Democrat or Republican) has increased over the last 40 years. It investigates two potential confounding factors (mode of interview and cohort effects) and finds that neither can explain the overall societal increase.
 
 ## Data
 
